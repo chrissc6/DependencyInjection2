@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AccountBLUEClass.cs" />
+    <Compile Include="AccountREDClass.cs" />
+    <Compile Include="AccountWIntClass.cs" />
+    <Compile Include="AccoutNoIntClass.cs" />
+    <Compile Include="CheckingClass.cs" />
+    <Compile Include="IAccountInterface.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
